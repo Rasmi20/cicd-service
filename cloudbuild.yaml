@@ -24,7 +24,7 @@ steps:
   
 substitutions:
     #GCP Specific configuration. Please DON'T change anything
-    _PROJECT: My First Project
+    _PROJECT: e-tuner-289806
     _ZONE: us-central1-c
     _GKE_CLUSTER: cluster-1
     
